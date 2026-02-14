@@ -24,7 +24,7 @@ A full-featured video streaming platform inspired by YouTube. Users can upload, 
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/yourusername/YouTubeClone.git
+   git clone https://github.com/kshitij-bagal/YouTubeClone.git
    cd YouTubeClone
    ```
 2. Install dependencies
